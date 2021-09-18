@@ -13,8 +13,8 @@ export default function App() {
 }
   return (
     <div>
-      <h1>Hello StackBlitz!</h1>
-      <p>Start editing to see some magic happen :)</p>
+      <h1>Desafío CoderHouse - Clase 09/10</h1>
+      <p>Tipear letras, en caso de que sea una vocal, que no te deje escribirlo.</p>
       <input onKeyDown={inputHeandler}/>
     </div>
   );
